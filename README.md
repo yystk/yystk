@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @yystk
 - 👀 I’m interested in AI and Medicine.
 - 🌱 I’m currently learning Deep learning.
-- 📫 How to reach me: ahna5650chiba-u.jp / yasutaka.yanagita@opqrst.co.jp
+- 📫 How to reach me: ahna5650@chiba-u.jp / yasutaka.yanagita@opqrst.co.jp
 - 😄 Pronouns: He
 
 <!---
